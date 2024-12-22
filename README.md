@@ -52,10 +52,6 @@ Contributions are welcome! If you have any improvements or additional codes to a
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to explore the codes and enhance your understanding of Data Structures and Algorithms using Java. Happy coding!
