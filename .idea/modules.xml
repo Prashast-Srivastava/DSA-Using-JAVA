@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAY AND ARRAYLIST/ARRAY AND ARRAYLIST.iml" filepath="$PROJECT_DIR$/ARRAY AND ARRAYLIST/ARRAY AND ARRAYLIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BINARY SEARCH/BINARY SEARCH.iml" filepath="$PROJECT_DIR$/BINARY SEARCH/BINARY SEARCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA USING JAVA.iml" filepath="$PROJECT_DIR$/DSA USING JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICS/JAVA BASICS.iml" filepath="$PROJECT_DIR$/JAVA BASICS/JAVA BASICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" filepath="$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORTING ALGORITHMS/SORTING ALGORITHMS.iml" filepath="$PROJECT_DIR$/SORTING ALGORITHMS/SORTING ALGORITHMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRING AND STRINGBUILDER/STRING AND STRINGBUILDER.iml" filepath="$PROJECT_DIR$/STRING AND STRINGBUILDER/STRING AND STRINGBUILDER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+    </modules>
+  </component>
+</project>
